@@ -31,7 +31,7 @@
 
    
 <h1 class="Conoce">¡Conoce lo que tenemos para ti!</h1>
-        <img class= "margenProduc" src="C:\Users\Laura C\Desktop\LR\ARTIS\QUIENES SOMOS.PNG"alt= "Quienes Somos">
+        <img class= "margenProduc" src="QUIENES SOMOS.PNG"alt= "Quienes Somos">
 
 <h1 class= "margenContact">Si te interesa uno de nuestros productos,<rt>Contactanos</rt></h1>
     <section>

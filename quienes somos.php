@@ -44,13 +44,13 @@
 <iframe class= "margenVideo" src="https://www.youtube.com/watch?v=8hl58T4oC-U" width="560" height="315"></iframe>
 
 
-<img class= "margenCata" src="C:\Users\Laura C\Desktop\LR\ARTIS\POST AGENDAS.PNG" alt="Agendas">
+<img class= "margenCata" src="POST AGENDAS.PNG" alt="Agendas">
 
-<img class= "margenCata" src="C:\Users\Laura C\Desktop\LR\ARTIS\POST CAMISETAS.PNG" alt="Agendas">
+<img class= "margenCata" src="POST CAMISETAS.PNG" alt="Agendas">
 
-<img class= "margenCata" src="C:\Users\Laura C\Desktop\LR\ARTIS\POST TERMOS.PNG" alt="Agendas">
+<img class= "margenCata" src="POST TERMOS.PNG" alt="Agendas">
 
-<img class= "margenCata" src="C:\Users\Laura C\Desktop\LR\ARTIS\POST SACO.PNG" alt="Agendas">
+<img class= "margenCata" src="POST SACO.PNG" alt="Agendas">
 	</p>
 
     <hr>

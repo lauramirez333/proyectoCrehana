@@ -43,7 +43,7 @@
 </section>
 <br>
 <br>
-<img class= "margen" src="C:\Users\Laura C\Desktop\LR\proyecto\ARTIS INSTAGRAM.jpg" alt= "Artis logo"> 
+<img class= "margen" src="ARTIS INSTAGRAM.jpg" alt= "Artis logo"> 
 <br>
 <br>
 <br>

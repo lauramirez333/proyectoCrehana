@@ -18,7 +18,7 @@
 
 <body class= "fondo">
 	<header>
-        <img class= "margenQuienesS" src="C:\Users\Laura C\Desktop\LR\ARTIS\PNG ARTIS.PNG" alt="logo Artis">
+        <img class= "margenQuienesS" src="PNG ARTIS.PNG" alt="logo Artis">
 
         <h1 id="tituloPrincipal" class="tituloQuienesS">¿Quienes somos?</h1>
         

@@ -1,0 +1,218 @@
+.margen{
+  
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+.margenQuienesS{
+  
+    width: 15%;
+    margin: 0 auto;
+    display: block;
+    margin-right: 105px;
+    margin-top: 40px;
+}
+
+.margenProduc{
+  
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+.parrafoPrincipal {
+    text-align: justify;
+    width: 80%;
+    font-size: 1.2em;
+    line-height: 39px;
+    font-family: verdana;
+    margin-top: 46px;
+    margin-left: 150px;
+}
+
+.parrafoPrincipalQuienS {
+    text-align: justify;
+    width: 80%;
+    font-size: 1.2em;
+    line-height: 39px;
+    font-family: verdana;
+    margin-top: 46px;
+    margin-left: 150px;
+}
+
+
+.fondo{
+    background-color: #FDC4BB; 
+}
+
+.titulo {
+    font-size: 450%;
+    width: 66%;
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    /*margin: 50px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:30px ;
+    margin-bottom:50px ;
+    /*src: url('fonts/Bubble Bobble.otf') format('truetype');
+    font-style: normal;
+    font-weight: normal;*/
+    
+}
+
+.tituloQuienesS {
+    font-size: 450%;
+    width: 66%;
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    /*margin: 50px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:-110px ;
+    margin-bottom:50px ;
+    /*src: url('fonts/Bubble Bobble.otf') format('truetype');
+    font-style: normal;
+    font-weight: normal;*/
+    
+}
+
+.tituloProduct {
+    font-size: 450%;
+    width: 66%;
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    /*margin: 50px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:-110px ;
+    margin-bottom:50px ;
+    /*src: url('fonts/Bubble Bobble.otf') format('truetype');
+    font-style: normal;
+    font-weight: normal;*/
+    
+}
+
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.3D {
+  text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+.menu li {
+    display: inline-block;
+    width: 425px;
+    text-align: center;
+    border: solid 5px #F76E68;
+    padding: 0px 0;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    font-size: 190%;
+    text-decoration: None
+}
+
+.menuPro li  {
+    display: inline-block;
+    width: 425px;
+    text-align: center;
+    border: solid 5px #F76E68;
+    padding: 0px 0;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    font-size: 190%;
+    text-decoration: None
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top:20px ;
+    margin-bottom:50px ;
+}
+
+mouseEncima:hover {
+  font-size:15 px;
+  color:#727176;
+}
+
+.footer {
+    text-align: center;
+    color: #888888;
+    padding: 30px 0;
+}
+
+.Insta {
+    text-decoration: none;
+    color: #727176;
+    font-size: 1.8em;
+    margin: 0 auto;
+    display: table;
+    font-family: "Bubble Bobble";
+}
+
+.Conoce {
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top:20px ;
+    margin-bottom:50px ;
+}
+
+.margenContact {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:20px ;
+    margin-bottom:50px ;
+}
+
+.margenCata {
+    margin-left: 400px;
+    margin-right: 20px;
+    margin-top:20px ;
+    margin-bottom:50px ; 
+    width: 35%;
+}
+.tituloNuestros{
+    font-size: 450%;
+    width: 66%;
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    color: #727176;
+    font-family: "Bubble Bobble";
+    /*margin: 50px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top:0px ;
+    margin-bottom:50px ;
+}
+
+.margenVideo{
+    margin-left: 350px;
+    margin-right: 20px;
+    margin-top:0px ;
+    margin-bottom:50px ;  
+}

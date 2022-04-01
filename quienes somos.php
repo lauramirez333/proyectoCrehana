@@ -27,9 +27,9 @@
     <nav class= mouseEncima:hover>
         <ul class= "menu">
             
-            <li><a style = "text-decoration: None" href="index.html">Inicio</a></li>
-            <li><a style = "text-decoration: None" href="quienes somos.html">¿Quienes somos?</a></li>
-            <li><a style = "text-decoration: None" href="Contact.html">Productos</a></li>
+            <li><a style = "text-decoration: None" href="index.php">Inicio</a></li>
+            <li><a style = "text-decoration: None" href="quienes somos.php">¿Quienes somos?</a></li>
+            <li><a style = "text-decoration: None" href="Contact.php">Productos</a></li>
            
         </ul>
     </nav>
